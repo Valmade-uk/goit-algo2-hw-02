@@ -21,7 +21,8 @@ goit-algo2-hw-02/
 │   └─ test_printing_optimization.py
 │
 ├─ .gitignore
-└─ README.md
+├── README.md
+└─ requirements.txt
 ```
 
 ---
